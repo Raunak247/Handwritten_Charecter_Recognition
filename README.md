@@ -17,6 +17,8 @@ A machine learning model is trained using structured patient data like medical t
 
 ## 📊 Evaluation
 Accuracy: 0.956140350877193
+
+
               precision    recall  f1-score   support
 
            0       0.95      0.93      0.94        43
