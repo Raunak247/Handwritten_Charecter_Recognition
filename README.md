@@ -1,4 +1,4 @@
-# Handwritten_Charecter_Recognition
+# Disease Prediction from medical data
 
 # Disease Prediction Model
 
